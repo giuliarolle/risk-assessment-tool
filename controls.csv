@@ -1,0 +1,22 @@
+category,control_id,control_name,suggested_action
+Phishing,A.6.3,"Consapevolezza, istruzione e formazione sulla sicurezza",Formazione periodica con simulazioni di phishing
+Phishing,A.8.5,Autenticazione sicura,Attivare l'autenticazione a due fattori su tutti gli account
+Ransomware,A.8.7,Protezione contro il malware,Antivirus/EDR aggiornato su server e notebook
+Ransomware,A.8.8,Gestione delle vulnerabilità tecniche,Applicare le patch di sicurezza entro tempi definiti
+Backup,A.8.13,Backup delle informazioni,Regola 3-2-1 con una copia esterna e prove di ripristino periodiche
+Dispositivi,A.8.1,Dispositivi endpoint degli utenti,Cifratura del disco e gestione centralizzata dei dispositivi
+Dispositivi,A.7.9,Sicurezza degli asset fuori sede,Regole d'uso fuori sede e blocco remoto dei dispositivi
+Accessi,A.5.15,Controllo degli accessi,Account personali e principio del minimo privilegio
+Accessi,A.5.17,Informazioni di autenticazione,Gestore di password e cambio periodico delle credenziali critiche
+Cloud,A.5.23,Sicurezza nell'uso dei servizi cloud,Revisione periodica dei permessi e configurazione sicura
+Rete,A.8.20,Sicurezza delle reti,Segmentare la rete e usare crittografia WPA3/WPA2 con password robusta
+Vulnerabilita,A.8.8,Gestione delle vulnerabilità tecniche,Concordare con il fornitore aggiornamenti e scansioni periodiche
+Fornitori,A.5.19,Sicurezza nei rapporti con i fornitori,Inserire requisiti di sicurezza e notifica incidenti nel contratto
+Fisico,A.7.1,Perimetri di sicurezza fisica,Armadi con chiave e registro dei visitatori
+Privacy,A.8.24,Uso della crittografia,Cifrare i dati personali a riposo e in transito
+Privacy,A.8.15,Registrazione degli eventi (logging),Tracciare gli accessi ai dati dei clienti
+Continuita,A.5.30,Prontezza ICT per la continuita operativa,Piano di ripristino con tempi obiettivo e hardware di riserva
+Malware,A.8.19,Installazione del software nei sistemi operativi,Limitare i diritti di installazione agli amministratori
+Personale,A.6.6,Accordi di riservatezza,Accordi di riservatezza firmati da dipendenti e collaboratori
+Incidenti,A.8.15,Registrazione degli eventi (logging),Raccogliere e controllare i log del gestionale
+Configurazione,A.8.9,Gestione della configurazione,Cambiare le credenziali di default e aggiornare il firmware

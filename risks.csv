@@ -1,0 +1,19 @@
+risk_id,asset_id,category,threat,vulnerability,likelihood,impact
+R01,A03,Phishing,Email di phishing che ruba le credenziali,Personale poco formato e nessuna autenticazione a due fattori,5,4
+R02,A01,Ransomware,Cifratura dei file da parte di un ransomware,Server con aggiornamenti non applicati e antivirus datato,3,5
+R03,A07,Backup,Perdita dei dati per backup assenti o non testati,Backup nello stesso ufficio e mai verificati,3,5
+R04,A04,Dispositivi,Furto o smarrimento di un notebook,Dischi non cifrati e uso fuori sede,4,4
+R05,A05,Dispositivi,Smartphone perso con accesso a posta e agenda,Nessun blocco remoto e PIN deboli,3,3
+R06,A10,Accessi,Uso improprio o furto delle credenziali amministratore,Password condivisa tra più persone e mai cambiata,3,5
+R07,A02,Cloud,Accesso non autorizzato al gestionale in cloud,Permessi troppo ampi e nessuna revisione degli accessi,3,4
+R08,A06,Rete,Intrusione dalla rete Wi-Fi,Password Wi-Fi semplice e rete ospiti non separata,3,4
+R09,A08,Vulnerabilita,Sito web compromesso tramite una falla nota,Software del sito non aggiornato dal fornitore,4,2
+R10,A11,Fornitori,Incidente causato o subito dal fornitore IT,Nessun contratto con requisiti di sicurezza,2,4
+R11,A09,Fisico,Accesso non autorizzato o furto di fascicoli cartacei,Armadi non chiusi a chiave e ufficio accessibile ai visitatori,2,4
+R12,A12,Privacy,Violazione dei dati personali dei clienti,Dati non cifrati e accessi non tracciati,3,5
+R13,A01,Continuita,Guasto hardware del server con fermo dell'attivita,Nessun server di riserva né piano di ripristino,2,4
+R14,A03,Cloud,Account email compromesso e usato per frodi,Password riutilizzate su altri servizi,4,4
+R15,A04,Malware,Infezione da malware su un notebook,Software installabile liberamente dagli utenti,4,3
+R16,A12,Personale,Divulgazione di dati da parte di un dipendente,Nessun accordo di riservatezza e poca consapevolezza,2,4
+R17,A02,Incidenti,Incidente non rilevato per mancanza di log,Log non raccolti né controllati,3,3
+R18,A06,Configurazione,Router con configurazione di fabbrica,Credenziali di default e firmware vecchio,2,3

@@ -1,0 +1,13 @@
+asset_id,name,type,description
+A01,Server file aziendale,Infrastruttura,Server in ufficio con le pratiche e i documenti dei clienti
+A02,Gestionale pratiche,Applicazione,Software gestionale in cloud usato da tutto lo studio
+A03,Posta elettronica,Servizio cloud,Casella email aziendale di tutti i dipendenti
+A04,Notebook del personale,Dispositivo,15 notebook usati anche fuori sede
+A05,Smartphone aziendali,Dispositivo,5 smartphone con accesso a posta e agenda
+A06,Rete Wi-Fi e router,Rete,Rete locale dell'ufficio e connessione a Internet
+A07,Backup su NAS,Infrastruttura,NAS in ufficio che conserva le copie dei dati
+A08,Sito web dello studio,Applicazione,Sito vetrina gestito da un fornitore esterno
+A09,Archivio cartaceo,Documenti,Armadi con fascicoli dei clienti
+A10,Account amministratore,Identità,Credenziali con privilegi elevati su server e gestionale
+A11,Fornitore IT esterno,Fornitore,Società che gestisce assistenza e manutenzione
+A12,Dati personali dei clienti,Informazioni,"Anagrafiche, documenti di identità e dati sensibili"
